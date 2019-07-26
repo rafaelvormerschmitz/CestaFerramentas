@@ -26,7 +26,11 @@ public void calculo(View v){
     startActivity(i);
 }
 public void conversao(View v){
-    Intent i=new Intent(this,Conversao.class);
+    Intent i=new Intent(this,conversao.class);
     startActivity(i);
 }
+    public void sobre(View v){
+        Intent i=new Intent(this,sobre.class);
+        startActivity(i);
+    }
 }

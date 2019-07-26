@@ -8,7 +8,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".conversao"></activity>
+        <activity android:name=".sobre"></activity>
+        <activity
+            android:name=".conversao"
+            android:label="Conversão byte" />
         <activity
             android:name=".Calculo"
             android:label="@string/title_activity_calculo"

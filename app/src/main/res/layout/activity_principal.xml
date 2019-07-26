@@ -19,7 +19,7 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#F52828"
+        android:backgroundTint="#71D309"
         android:onClick="conversao"
         android:text="Conversão" />
 </LinearLayout>
